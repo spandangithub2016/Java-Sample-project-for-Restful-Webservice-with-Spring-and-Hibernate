@@ -1,0 +1,186 @@
+@CHARSET "ISO-8859-1";
+
+	#header
+		{
+			background: url("image/back.jpg") no-repeat center fixed;
+			background-size: cover;
+			height: 100px;
+			margin-left: -8px;
+			width: 1480px;
+			margin-top: -42px;
+		
+		}
+		
+		body
+		{
+			background: url("image/back2.jpg") center no-repeat;
+			background-size: cover;
+		}
+		h1
+		{
+			color: yellow;	
+			padding-top: -15px;
+		}
+		h2
+		{
+			font-size: 40px;
+			font-family: verdana;
+			color:orange;
+			margin-top: 15px;	
+		}
+		#set
+		{
+			border-style: solid;
+			border-width: 2px;
+			border-color: black;
+			height: 1600px;
+			width: 700px;
+			background:url("image/back2.jpg") no-repeat center fixed;
+			background-size: cover;
+		}
+		
+		#set1
+		{
+			
+			border-style: solid;
+			border-width: 2px;
+			border-color: black;
+			height: 800px;
+			width: 500px;
+			background:url("image/back2.jpg") no-repeat center fixed;
+			background-size: cover;
+		}
+		#set2
+		{
+			background-image: url("image/h1.jpg");
+			height: 60px;
+			width: 100%;
+			margin-top: -20px;
+			margin-left: -20px;
+			padding-right: 20px;
+		}
+		#set3
+		{
+			background-color: #4CAF50;
+			height: 80px;
+			width: 100%;
+			margin-top: -20px;
+		}
+		#sub
+		{
+			margin-top: 30px;
+			margin-right: 430px;
+			width: 160px;
+			height: 30px;
+		}
+		#sub1
+		{
+			margin-top: -30px;
+			margin-right: 220px;
+			width: 160px;
+			height: 30px;
+		}
+		
+        
+		input
+		{
+			float: right;
+			margin-right: 200px;
+			padding-left: 0px;
+			display: transparent;
+		}
+		input[type=submit],[type=reset]
+		{
+			font-size: 25px;
+			font-weight: bold;
+    		width: 200px;
+    		height: 40px;
+    		background-color: #4CAF50;
+    		color: white;
+    		margin-right: 260px;
+    		border: none;
+    		border-radius: 4px;
+    		cursor: pointer;
+    	}
+    	input[type=text]:focus,[type=email]:focus,[type=password]:focus,select:focus
+    	{
+ 		   border: 3px solid red;
+
+		}
+    	input[type=text],[type=email],[type=password],select 
+    	{
+
+    		width: 100%;
+    		padding: 12px 20px;
+    		margin: 8px 0;
+    		display: inline-block;
+    		border: 1px solid #ccc;
+    		border-radius: 4px;
+    		box-sizing: border-box;
+    		border-color: red;
+
+		}
+		input[type=Date]
+		{
+			width: 100%;
+    		padding: 12px 20px;
+    		margin: 8px 0;
+    		display: inline-block;
+    		border: 1px solid #ccc;
+    		border-radius: 4px;
+    		box-sizing: border-box;
+		}
+		input[type=submit]:hover,[type=reset]:hover
+		{
+    		background-color: #f49235;
+		}
+		div
+		{
+    		border-radius: 5px;
+    		background-color: #f2f2f2;
+    		padding: 20px;
+		}
+		label
+		{
+			float: left;
+			font-size: 20px;
+			font-family: courier;
+			font-weight: bolder;
+			color: yellow;
+		}
+		option
+		{
+			font-size: 20px;
+		}
+        #guide1
+        {
+            height: 180px;
+            width: 150px;
+            margin-left: -200px;
+            margin-top: 170px;
+        }
+        #pic
+        {
+            height: 220px;
+            width: 190px;
+            margin-top: -22px;
+            margin-left: -20px;
+            color: red;
+            font-size: 15px;
+        }
+        #guide2
+        {
+            height: 80px;
+            width: 200px;
+            margin-left: 400px;
+            margin-top: -180px;
+        }
+        #sign
+        {
+            height: 122px;
+            width: 240px;
+            margin-top: -22px;
+            margin-left: -20px;
+            color: red;
+            font-size: 15px;
+        }

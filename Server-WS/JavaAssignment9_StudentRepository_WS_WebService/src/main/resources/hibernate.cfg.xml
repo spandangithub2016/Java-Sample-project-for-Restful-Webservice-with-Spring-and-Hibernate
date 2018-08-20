@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-configuration PUBLIC
+		"-//Hibernate/Hibernate Configuration DTD 3.0//EN"
+		"http://www.hibernate.org/dtd/hibernate-configuration-3.0.dtd">
+<hibernate-configuration>
+    <session-factory>
+        <property name="hibernate.connection.driver_class">com.microsoft.sqlserver.jdbc.SQLServerDriver</property>
+        <property name="hibernate.connection.password">^D$b2K5!</property>
+        <property name="hibernate.connection.url">jdbc:sqlserver://10.4.48.18:1433;databaseName=BPIGTN_AGN_APP_DEV</property>
+        <property name="hibernate.connection.username">bpigtn_db</property>
+        <property name="hibernate.dialect">org.hibernate.dialect.SQLServerDialect</property>
+         <mapping class="com.stpl.trainee.assignment9.bean.StudentRegistration" />
+    </session-factory>
+    
+</hibernate-configuration>

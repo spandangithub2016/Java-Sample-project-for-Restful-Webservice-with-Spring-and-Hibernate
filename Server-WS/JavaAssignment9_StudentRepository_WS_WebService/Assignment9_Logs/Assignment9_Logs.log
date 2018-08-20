@@ -1,0 +1,278 @@
+2018-07-06 18:19:25,295 INFO c.s.t.a.s.LoginService [main] Error is:org.hibernate.HibernateException: Unable to get the default Bean Validation factory
+2018-07-06 18:19:25,313 INFO R.class [main] Error in Registration: org.hibernate.HibernateException: Unable to get the default Bean Validation factory
+2018-07-06 18:19:25,323 INFO c.s.t.a.s.LoginService [main] Error is:org.hibernate.HibernateException: Unable to get the default Bean Validation factory
+2018-07-09 10:26:11,559 INFO c.s.t.a.s.LoginService [main] Error is:org.hibernate.HibernateException: Unable to get the default Bean Validation factory
+2018-07-09 10:26:11,608 INFO R.class [main] Error in Registration: org.hibernate.HibernateException: Unable to get the default Bean Validation factory
+2018-07-09 10:26:11,671 INFO c.s.t.a.s.LoginService [main] Error is:org.hibernate.HibernateException: Unable to get the default Bean Validation factory
+2018-07-09 10:29:41,382 INFO c.s.t.a.s.LoginService [main] Error is:org.hibernate.HibernateException: Unable to get the default Bean Validation factory
+2018-07-09 10:29:41,425 INFO R.class [main] Error in Registration: org.hibernate.HibernateException: Unable to get the default Bean Validation factory
+2018-07-09 10:29:41,444 INFO c.s.t.a.s.LoginService [main] Error is:org.hibernate.HibernateException: Unable to get the default Bean Validation factory
+2018-07-09 10:29:52,143 INFO c.s.t.a.s.LoginService [main] Error is:org.hibernate.HibernateException: Unable to get the default Bean Validation factory
+2018-07-09 10:29:52,164 INFO R.class [main] Error in Registration: org.hibernate.HibernateException: Unable to get the default Bean Validation factory
+2018-07-09 10:29:52,182 INFO c.s.t.a.s.LoginService [main] Error is:org.hibernate.HibernateException: Unable to get the default Bean Validation factory
+2018-07-09 10:32:12,850 INFO c.s.t.a.s.LoginService [main] Error is:org.hibernate.MappingException: invalid configuration
+2018-07-09 10:32:12,932 INFO R.class [main] Error in Registration: org.hibernate.MappingException: invalid configuration
+2018-07-09 10:32:12,944 INFO c.s.t.a.s.LoginService [main] Error is:org.hibernate.MappingException: invalid configuration
+2018-07-09 10:41:03,563 INFO c.s.t.a.s.LoginService [main] Error is:org.hibernate.HibernateException: Unable to get the default Bean Validation factory
+2018-07-09 10:41:03,584 INFO R.class [main] Error in Registration: org.hibernate.HibernateException: Unable to get the default Bean Validation factory
+2018-07-09 10:41:03,594 INFO c.s.t.a.s.LoginService [main] Error is:org.hibernate.HibernateException: Unable to get the default Bean Validation factory
+2018-07-09 10:41:59,048 INFO c.s.t.a.s.LoginService [main] Error is:org.hibernate.HibernateException: Unable to get the default Bean Validation factory
+2018-07-09 10:41:59,073 INFO R.class [main] Error in Registration: org.hibernate.HibernateException: Unable to get the default Bean Validation factory
+2018-07-09 10:41:59,082 INFO c.s.t.a.s.LoginService [main] Error is:org.hibernate.HibernateException: Unable to get the default Bean Validation factory
+2018-07-09 10:42:29,603 INFO c.s.t.a.s.LoginService [main] Error is:org.hibernate.HibernateException: Unable to get the default Bean Validation factory
+2018-07-09 10:42:29,623 INFO R.class [main] Error in Registration: org.hibernate.HibernateException: Unable to get the default Bean Validation factory
+2018-07-09 10:42:29,640 INFO c.s.t.a.s.LoginService [main] Error is:org.hibernate.HibernateException: Unable to get the default Bean Validation factory
+2018-07-09 10:46:42,211 INFO c.s.t.a.s.LoginService [main] Error is:java.lang.NullPointerException
+2018-07-09 10:49:39,607 INFO c.s.t.a.s.LoginService [main] Error is:java.lang.NullPointerException
+2018-07-09 10:51:10,686 INFO c.s.t.a.s.LoginService [main] Error is:java.lang.NullPointerException
+2018-07-09 10:51:55,319 INFO c.s.t.a.s.LoginService [main] Error is:java.lang.NullPointerException
+2018-07-09 10:51:55,383 INFO R.class [main] org.hibernate.transaction.JDBCTransaction@5553d0f5
+2018-07-09 10:53:50,069 INFO c.s.t.a.s.LoginService [main] Error is:java.lang.NullPointerException
+2018-07-09 10:53:50,129 INFO R.class [main] org.hibernate.transaction.JDBCTransaction@5553d0f5
+2018-07-09 10:54:52,113 INFO c.s.t.a.s.LoginService [main] Error is:java.lang.NullPointerException
+2018-07-09 10:54:52,191 INFO R.class [main] org.hibernate.transaction.JDBCTransaction@5553d0f5
+2018-07-09 10:55:29,992 INFO c.s.t.a.s.LoginService [main] Error is:java.lang.NullPointerException
+2018-07-09 10:55:30,053 INFO R.class [main] org.hibernate.transaction.JDBCTransaction@5553d0f5
+2018-07-09 10:58:13,184 INFO c.s.t.a.s.LoginService [main] Error is:java.lang.NullPointerException
+2018-07-09 11:03:20,183 INFO c.s.t.a.s.LoginService [main] Error is:java.lang.NullPointerException
+2018-07-09 11:04:59,278 INFO c.s.t.a.s.LoginService [main] Error is:java.lang.NullPointerException
+2018-07-09 11:29:30,436 INFO c.s.t.a.s.LoginService [main] Error is:java.lang.IllegalArgumentException: id to load is required for loading
+2018-07-09 11:29:30,526 INFO c.s.t.a.s.LoginService [main] Error is:java.lang.NullPointerException
+2018-07-09 11:29:30,659 INFO c.s.t.a.s.LoginService [main] Error is:java.lang.NullPointerException
+2018-07-09 11:30:05,229 INFO c.s.t.a.s.LoginService [main] Error is:java.lang.IllegalArgumentException: id to load is required for loading
+2018-07-09 11:30:05,284 INFO c.s.t.a.s.LoginService [main] Error is:java.lang.NullPointerException
+2018-07-09 11:30:05,407 INFO c.s.t.a.s.LoginService [main] Error is:java.lang.NullPointerException
+2018-07-09 11:30:37,453 INFO c.s.t.a.s.LoginService [main] Error is:java.lang.IllegalArgumentException: id to load is required for loading
+2018-07-09 11:30:37,554 INFO c.s.t.a.s.LoginService [main] Error is:java.lang.NullPointerException
+2018-07-09 11:30:37,829 INFO c.s.t.a.s.LoginService [main] Error is:java.lang.NullPointerException
+2018-07-09 11:41:35,050 INFO c.s.t.a.s.LoginService [main] Error is:java.lang.IllegalArgumentException: id to load is required for loading
+2018-07-09 11:41:35,111 INFO c.s.t.a.s.LoginService [main] Error is:java.lang.NullPointerException
+2018-07-09 11:41:35,245 INFO c.s.t.a.s.LoginService [main] Error is:java.lang.NullPointerException
+2018-07-09 11:41:35,751 INFO R.class [main] Error in Registration: org.hibernate.exception.ConstraintViolationException: could not insert: [com.stpl.trainee.assignment9.bean.StudentRegistration]
+2018-07-09 11:41:35,815 INFO R.class [main] Error in Registration: org.hibernate.exception.ConstraintViolationException: could not insert: [com.stpl.trainee.assignment9.bean.StudentRegistration]
+2018-07-09 11:41:35,881 INFO R.class [main] Error in Registration: org.hibernate.exception.ConstraintViolationException: could not insert: [com.stpl.trainee.assignment9.bean.StudentRegistration]
+2018-07-09 11:42:46,563 INFO c.s.t.a.s.LoginService [main] Error is:java.lang.IllegalArgumentException: id to load is required for loading
+2018-07-09 11:42:46,678 INFO c.s.t.a.s.LoginService [main] Error is:java.lang.NullPointerException
+2018-07-09 11:42:46,819 INFO c.s.t.a.s.LoginService [main] Error is:java.lang.NullPointerException
+2018-07-09 11:42:47,163 INFO R.class [main] Error in Registration: org.hibernate.exception.ConstraintViolationException: could not insert: [com.stpl.trainee.assignment9.bean.StudentRegistration]
+2018-07-09 11:42:47,210 INFO R.class [main] Error in Registration: org.hibernate.exception.ConstraintViolationException: could not insert: [com.stpl.trainee.assignment9.bean.StudentRegistration]
+2018-07-09 11:42:47,273 INFO R.class [main] Error in Registration: org.hibernate.exception.ConstraintViolationException: could not insert: [com.stpl.trainee.assignment9.bean.StudentRegistration]
+2018-07-09 11:42:47,337 INFO R.class [main] Error in Registration: org.hibernate.exception.ConstraintViolationException: could not insert: [com.stpl.trainee.assignment9.bean.StudentRegistration]
+2018-07-09 11:43:15,976 INFO c.s.t.a.s.LoginService [main] Error is:java.lang.IllegalArgumentException: id to load is required for loading
+2018-07-09 11:43:16,080 INFO c.s.t.a.s.LoginService [main] Error is:java.lang.NullPointerException
+2018-07-09 11:43:16,365 INFO c.s.t.a.s.LoginService [main] Error is:java.lang.NullPointerException
+2018-07-09 11:43:16,889 INFO R.class [main] Error in Registration: org.hibernate.exception.ConstraintViolationException: could not insert: [com.stpl.trainee.assignment9.bean.StudentRegistration]
+2018-07-09 11:43:17,046 INFO R.class [main] Error in Registration: org.hibernate.exception.ConstraintViolationException: could not insert: [com.stpl.trainee.assignment9.bean.StudentRegistration]
+2018-07-09 11:43:17,134 INFO R.class [main] Error in Registration: org.hibernate.exception.ConstraintViolationException: could not insert: [com.stpl.trainee.assignment9.bean.StudentRegistration]
+2018-07-09 11:43:17,252 INFO R.class [main] Error in Registration: org.hibernate.exception.ConstraintViolationException: could not insert: [com.stpl.trainee.assignment9.bean.StudentRegistration]
+2018-07-09 11:47:03,313 INFO c.s.t.a.s.LoginService [main] Error is:java.lang.NullPointerException
+2018-07-09 11:47:03,323 INFO c.s.t.a.s.LoginService [main] Error is:java.lang.NullPointerException
+2018-07-09 11:47:05,182 INFO c.s.t.a.s.LoginService [main] Error is:java.lang.NullPointerException
+2018-07-09 11:47:05,549 INFO R.class [main] Error in Registration: java.lang.NullPointerException
+2018-07-09 11:47:05,550 INFO R.class [main] Error in Registration: org.hibernate.SessionException: Session is closed!
+2018-07-09 11:48:00,284 INFO c.s.t.a.s.LoginService [main] Error is:java.lang.NullPointerException
+2018-07-09 11:48:00,301 INFO c.s.t.a.s.LoginService [main] Error is:java.lang.NullPointerException
+2018-07-09 11:48:03,434 INFO c.s.t.a.s.LoginService [main] Error is:java.lang.NullPointerException
+2018-07-09 11:48:03,795 INFO R.class [main] Error in Registration: java.lang.NullPointerException
+2018-07-09 11:48:03,795 INFO R.class [main] Error in Registration: org.hibernate.SessionException: Session is closed!
+2018-07-09 11:49:26,769 INFO c.s.t.a.s.LoginService [main] Error is:java.lang.NullPointerException
+2018-07-09 11:49:26,781 INFO c.s.t.a.s.LoginService [main] Error is:java.lang.NullPointerException
+2018-07-09 11:49:28,366 INFO c.s.t.a.s.LoginService [main] Error is:java.lang.NullPointerException
+2018-07-09 11:49:28,730 INFO R.class [main] Error in Registration: org.hibernate.SessionException: Session is closed!
+2018-07-09 11:50:59,769 INFO c.s.t.a.s.LoginService [main] Error is:java.lang.NullPointerException
+2018-07-09 11:50:59,788 INFO c.s.t.a.s.LoginService [main] Error is:java.lang.NullPointerException
+2018-07-09 11:51:02,436 INFO c.s.t.a.s.LoginService [main] Error is:java.lang.NullPointerException
+2018-07-09 11:51:02,849 INFO R.class [main] Error in Registration: org.hibernate.SessionException: Session is closed!
+2018-07-09 11:51:19,610 INFO c.s.t.a.s.LoginService [main] Error is:java.lang.NullPointerException
+2018-07-09 11:51:19,620 INFO c.s.t.a.s.LoginService [main] Error is:java.lang.NullPointerException
+2018-07-09 11:51:21,238 INFO c.s.t.a.s.LoginService [main] Error is:java.lang.NullPointerException
+2018-07-09 11:51:21,635 INFO R.class [main] Error in Registration: org.hibernate.SessionException: Session is closed!
+2018-07-09 11:52:44,913 INFO c.s.t.a.s.LoginService [main] Error is:java.lang.NullPointerException
+2018-07-09 11:52:44,922 INFO c.s.t.a.s.LoginService [main] Error is:java.lang.NullPointerException
+2018-07-09 11:52:46,426 INFO c.s.t.a.s.LoginService [main] Error is:java.lang.NullPointerException
+2018-07-09 11:52:46,536 INFO R.class [main] Error in Registration: org.hibernate.exception.ConstraintViolationException: could not insert: [com.stpl.trainee.assignment9.bean.StudentRegistration]
+2018-07-09 11:52:46,715 INFO R.class [main] Error in Registration: org.hibernate.SessionException: Session is closed!
+2018-07-09 11:53:13,334 INFO c.s.t.a.s.LoginService [main] Error is:java.lang.NullPointerException
+2018-07-09 11:53:13,344 INFO c.s.t.a.s.LoginService [main] Error is:java.lang.NullPointerException
+2018-07-09 11:53:14,922 INFO c.s.t.a.s.LoginService [main] Error is:java.lang.NullPointerException
+2018-07-09 11:57:28,547 INFO c.s.t.a.s.LoginService [main] Error is:java.lang.NullPointerException
+2018-07-09 11:57:28,556 INFO c.s.t.a.s.LoginService [main] Error is:java.lang.NullPointerException
+2018-07-09 11:57:30,127 INFO c.s.t.a.s.LoginService [main] Error is:java.lang.NullPointerException
+2018-07-09 11:58:01,235 INFO c.s.t.a.s.LoginService [main] Error is:java.lang.NullPointerException
+2018-07-09 11:58:01,244 INFO c.s.t.a.s.LoginService [main] Error is:java.lang.NullPointerException
+2018-07-09 11:58:02,821 INFO c.s.t.a.s.LoginService [main] Error is:java.lang.NullPointerException
+2018-07-09 11:58:57,762 INFO c.s.t.a.s.LoginService [main] Error is:java.lang.NullPointerException
+2018-07-09 11:58:57,771 INFO c.s.t.a.s.LoginService [main] Error is:java.lang.NullPointerException
+2018-07-09 11:58:59,536 INFO c.s.t.a.s.LoginService [main] Error is:java.lang.NullPointerException
+2018-07-09 11:58:59,869 INFO R.class [main] Error in Registration: java.lang.NullPointerException
+2018-07-09 11:59:28,447 INFO c.s.t.a.s.LoginService [main] Error is:java.lang.NullPointerException
+2018-07-09 11:59:28,457 INFO c.s.t.a.s.LoginService [main] Error is:java.lang.NullPointerException
+2018-07-09 11:59:30,025 INFO c.s.t.a.s.LoginService [main] Error is:java.lang.NullPointerException
+2018-07-09 11:59:30,264 INFO R.class [main] Error in Registration: java.lang.NullPointerException
+2018-07-09 11:59:56,488 INFO c.s.t.a.s.LoginService [main] Error is:java.lang.NullPointerException
+2018-07-09 11:59:56,508 INFO c.s.t.a.s.LoginService [main] Error is:java.lang.NullPointerException
+2018-07-09 11:59:59,235 INFO c.s.t.a.s.LoginService [main] Error is:java.lang.NullPointerException
+2018-07-09 11:59:59,693 INFO R.class [main] Error in Registration: java.lang.NullPointerException
+2018-07-09 12:03:08,361 INFO c.s.t.a.s.LoginService [main] Error is:java.lang.NullPointerException
+2018-07-09 12:03:08,378 INFO c.s.t.a.s.LoginService [main] Error is:java.lang.NullPointerException
+2018-07-09 12:03:11,101 INFO c.s.t.a.s.LoginService [main] Error is:java.lang.NullPointerException
+2018-07-09 12:03:11,441 INFO R.class [main] Error in Registration: java.lang.NullPointerException
+2018-07-09 12:05:18,925 INFO c.s.t.a.s.LoginService [main] Error is:java.lang.NullPointerException
+2018-07-09 12:05:18,945 INFO c.s.t.a.s.LoginService [main] Error is:java.lang.NullPointerException
+2018-07-09 12:05:21,465 INFO c.s.t.a.s.LoginService [main] Error is:java.lang.NullPointerException
+2018-07-09 12:05:21,781 INFO R.class [main] Error in Registration: java.lang.NullPointerException
+2018-07-09 12:05:36,670 INFO c.s.t.a.s.LoginService [main] Error is:java.lang.NullPointerException
+2018-07-09 12:05:36,679 INFO c.s.t.a.s.LoginService [main] Error is:java.lang.NullPointerException
+2018-07-09 12:05:38,249 INFO c.s.t.a.s.LoginService [main] Error is:java.lang.NullPointerException
+2018-07-09 12:05:38,524 INFO R.class [main] Error in Registration: java.lang.NullPointerException
+2018-07-09 12:07:27,432 INFO c.s.t.a.s.LoginService [main] Error is:java.lang.NullPointerException
+2018-07-09 12:07:27,451 INFO c.s.t.a.s.LoginService [main] Error is:java.lang.NullPointerException
+2018-07-09 12:07:30,356 INFO c.s.t.a.s.LoginService [main] Error is:java.lang.NullPointerException
+2018-07-09 12:07:30,705 INFO R.class [main] Error in Registration: java.lang.NullPointerException
+2018-07-09 12:09:37,518 INFO c.s.t.a.s.LoginService [main] Error is:java.lang.NullPointerException
+2018-07-09 12:09:37,877 INFO c.s.t.a.s.LoginService [main] Error is:java.lang.NullPointerException
+2018-07-09 12:09:37,878 INFO c.s.t.a.s.LoginService [main] Error is:java.lang.NullPointerException
+2018-07-09 12:09:37,878 INFO R.class [main] Error in Registration: java.lang.NullPointerException
+2018-07-09 12:11:33,231 INFO c.s.t.a.s.LoginService [main] Error is:java.lang.NullPointerException
+2018-07-09 12:11:34,257 INFO c.s.t.a.s.LoginService [main] Error is:java.lang.NullPointerException
+2018-07-09 12:11:34,257 INFO c.s.t.a.s.LoginService [main] Error is:java.lang.NullPointerException
+2018-07-09 12:11:50,055 INFO c.s.t.a.s.LoginService [main] Error is:java.lang.NullPointerException
+2018-07-09 12:11:50,379 INFO c.s.t.a.s.LoginService [main] Error is:java.lang.NullPointerException
+2018-07-09 12:11:50,379 INFO c.s.t.a.s.LoginService [main] Error is:java.lang.NullPointerException
+2018-07-09 12:12:02,500 INFO c.s.t.a.s.LoginService [main] Error is:java.lang.NullPointerException
+2018-07-09 12:12:02,511 INFO c.s.t.a.s.LoginService [main] Error is:java.lang.NullPointerException
+2018-07-09 12:12:04,295 INFO c.s.t.a.s.LoginService [main] Error is:java.lang.NullPointerException
+2018-07-09 12:12:37,667 INFO c.s.t.a.s.LoginService [main] Error is:java.lang.NullPointerException
+2018-07-09 12:12:38,288 INFO c.s.t.a.s.LoginService [main] Error is:java.lang.NullPointerException
+2018-07-09 12:12:38,289 INFO c.s.t.a.s.LoginService [main] Error is:java.lang.NullPointerException
+2018-07-09 12:12:38,290 INFO R.class [main] Error in Registration: java.lang.NullPointerException
+2018-07-09 12:13:19,201 INFO c.s.t.a.s.LoginService [main] Error is:java.lang.NullPointerException
+2018-07-09 12:13:19,483 INFO c.s.t.a.s.LoginService [main] Error is:java.lang.NullPointerException
+2018-07-09 12:13:19,483 INFO c.s.t.a.s.LoginService [main] Error is:java.lang.NullPointerException
+2018-07-09 12:13:19,483 INFO R.class [main] Error in Registration: java.lang.NullPointerException
+2018-07-09 12:14:07,711 INFO c.s.t.a.s.LoginService [main] Error is:java.lang.NullPointerException
+2018-07-09 12:14:08,235 INFO c.s.t.a.s.LoginService [main] Error is:java.lang.NullPointerException
+2018-07-09 12:14:08,235 INFO c.s.t.a.s.LoginService [main] Error is:java.lang.NullPointerException
+2018-07-09 12:14:08,236 INFO R.class [main] Error in Registration: java.lang.NullPointerException
+2018-07-09 12:14:29,845 INFO c.s.t.a.s.LoginService [main] Error is:java.lang.NullPointerException
+2018-07-09 12:14:30,097 INFO c.s.t.a.s.LoginService [main] Error is:java.lang.NullPointerException
+2018-07-09 12:14:30,097 INFO c.s.t.a.s.LoginService [main] Error is:java.lang.NullPointerException
+2018-07-09 12:14:30,098 INFO R.class [main] Error in Registration: java.lang.NullPointerException
+2018-07-09 12:15:11,069 INFO c.s.t.a.s.LoginService [main] Error is:java.lang.NullPointerException
+2018-07-09 12:15:11,479 INFO c.s.t.a.s.LoginService [main] Error is:java.lang.NullPointerException
+2018-07-09 12:15:11,479 INFO c.s.t.a.s.LoginService [main] Error is:java.lang.NullPointerException
+2018-07-09 12:15:41,332 INFO c.s.t.a.s.LoginService [main] Error is:java.lang.NullPointerException
+2018-07-09 12:15:41,342 INFO c.s.t.a.s.LoginService [main] Error is:java.lang.NullPointerException
+2018-07-09 12:15:42,915 INFO c.s.t.a.s.LoginService [main] Error is:java.lang.NullPointerException
+2018-07-09 12:16:15,150 INFO c.s.t.a.s.LoginService [main] Error is:java.lang.NullPointerException
+2018-07-09 12:16:15,158 INFO c.s.t.a.s.LoginService [main] Error is:java.lang.NullPointerException
+2018-07-09 12:16:16,677 INFO c.s.t.a.s.LoginService [main] Error is:java.lang.NullPointerException
+2018-07-09 12:16:16,963 INFO R.class [main] Error in Registration: org.hibernate.SessionException: Session is closed!
+2018-07-09 12:16:59,335 INFO c.s.t.a.s.LoginService [main] Error is:java.lang.NullPointerException
+2018-07-09 12:16:59,344 INFO c.s.t.a.s.LoginService [main] Error is:java.lang.NullPointerException
+2018-07-09 12:17:00,944 INFO c.s.t.a.s.LoginService [main] Error is:java.lang.NullPointerException
+2018-07-09 12:17:01,385 INFO R.class [main] Error in Registration: java.lang.NullPointerException
+2018-07-09 12:17:33,170 INFO c.s.t.a.s.LoginService [main] Error is:java.lang.NullPointerException
+2018-07-09 12:17:33,179 INFO c.s.t.a.s.LoginService [main] Error is:java.lang.NullPointerException
+2018-07-09 12:17:34,724 INFO c.s.t.a.s.LoginService [main] Error is:java.lang.NullPointerException
+2018-07-09 12:17:35,221 INFO R.class [main] Error in Registration: java.lang.NullPointerException
+2018-07-09 12:18:16,799 INFO c.s.t.a.s.LoginService [main] Error is:java.lang.NullPointerException
+2018-07-09 12:18:16,810 INFO c.s.t.a.s.LoginService [main] Error is:java.lang.NullPointerException
+2018-07-09 12:18:18,379 INFO c.s.t.a.s.LoginService [main] Error is:java.lang.NullPointerException
+2018-07-09 12:18:18,811 INFO R.class [main] Error in Registration: java.lang.NullPointerException
+2018-07-09 12:18:18,895 INFO R.class [main] Error in Registration: org.hibernate.exception.ConstraintViolationException: could not insert: [com.stpl.trainee.assignment9.bean.StudentRegistration]
+2018-07-09 12:19:06,220 INFO c.s.t.a.s.LoginService [main] Error is:java.lang.NullPointerException
+2018-07-09 12:19:06,230 INFO c.s.t.a.s.LoginService [main] Error is:java.lang.NullPointerException
+2018-07-09 12:19:07,796 INFO c.s.t.a.s.LoginService [main] Error is:java.lang.NullPointerException
+2018-07-09 12:19:08,290 INFO R.class [main] Error in Registration: java.lang.NullPointerException
+2018-07-09 12:19:08,379 INFO R.class [main] Error in Registration: org.hibernate.exception.ConstraintViolationException: could not insert: [com.stpl.trainee.assignment9.bean.StudentRegistration]
+2018-07-09 12:19:08,494 INFO R.class [main] Error in Registration: java.lang.NullPointerException
+2018-07-09 12:19:13,304 INFO c.s.t.a.s.LoginService [main] Error is:java.lang.NullPointerException
+2018-07-09 12:19:13,315 INFO c.s.t.a.s.LoginService [main] Error is:java.lang.NullPointerException
+2018-07-09 12:19:14,964 INFO c.s.t.a.s.LoginService [main] Error is:java.lang.NullPointerException
+2018-07-09 12:19:15,507 INFO R.class [main] Error in Registration: java.lang.NullPointerException
+2018-07-09 12:19:15,711 INFO R.class [main] Error in Registration: org.hibernate.exception.ConstraintViolationException: could not insert: [com.stpl.trainee.assignment9.bean.StudentRegistration]
+2018-07-09 12:19:15,780 INFO R.class [main] Error in Registration: java.lang.NullPointerException
+2018-07-09 12:19:45,700 INFO c.s.t.a.s.LoginService [main] Error is:java.lang.NullPointerException
+2018-07-09 12:19:45,710 INFO c.s.t.a.s.LoginService [main] Error is:java.lang.NullPointerException
+2018-07-09 12:19:47,245 INFO c.s.t.a.s.LoginService [main] Error is:java.lang.NullPointerException
+2018-07-09 12:19:47,946 INFO R.class [main] Error in Registration: java.lang.NullPointerException
+2018-07-09 12:19:48,049 INFO R.class [main] Error in Registration: org.hibernate.exception.ConstraintViolationException: could not insert: [com.stpl.trainee.assignment9.bean.StudentRegistration]
+2018-07-09 12:19:48,368 INFO R.class [main] Error in Registration: java.lang.NullPointerException
+2018-07-09 12:19:48,368 INFO R.class [main] Error in Registration: java.lang.NullPointerException
+2018-07-09 12:20:04,713 INFO c.s.t.a.s.LoginService [main] Error is:java.lang.NullPointerException
+2018-07-09 12:20:04,732 INFO c.s.t.a.s.LoginService [main] Error is:java.lang.NullPointerException
+2018-07-09 12:20:07,248 INFO c.s.t.a.s.LoginService [main] Error is:java.lang.NullPointerException
+2018-07-09 12:20:07,933 INFO R.class [main] Error in Registration: java.lang.NullPointerException
+2018-07-09 12:20:08,022 INFO R.class [main] Error in Registration: org.hibernate.exception.ConstraintViolationException: could not insert: [com.stpl.trainee.assignment9.bean.StudentRegistration]
+2018-07-09 12:20:08,098 INFO R.class [main] Error in Registration: java.lang.NullPointerException
+2018-07-09 12:20:08,098 INFO R.class [main] Error in Registration: java.lang.NullPointerException
+2018-07-09 13:04:01,723 INFO c.s.t.a.s.LoginService [main] Error is:java.lang.NullPointerException
+2018-07-09 13:04:02,219 INFO R.class [main] Error in Registration: java.lang.NullPointerException
+2018-07-09 13:04:02,273 INFO R.class [main] Error in Registration: org.hibernate.exception.ConstraintViolationException: could not insert: [com.stpl.trainee.assignment9.bean.StudentRegistration]
+2018-07-09 13:04:02,325 INFO R.class [main] Error in Registration: java.lang.NullPointerException
+2018-07-09 13:04:02,325 INFO R.class [main] Error in Registration: java.lang.NullPointerException
+2018-07-09 13:04:29,483 INFO c.s.t.a.s.LoginService [main] Error is:java.lang.NullPointerException
+2018-07-09 13:04:29,848 INFO R.class [main] Error in Registration: java.lang.NullPointerException
+2018-07-09 13:04:29,922 INFO R.class [main] Error in Registration: org.hibernate.exception.ConstraintViolationException: could not insert: [com.stpl.trainee.assignment9.bean.StudentRegistration]
+2018-07-09 13:04:29,988 INFO R.class [main] Error in Registration: java.lang.NullPointerException
+2018-07-09 13:04:29,989 INFO R.class [main] Error in Registration: java.lang.NullPointerException
+2018-07-09 13:04:30,063 INFO c.s.t.a.s.LoginService [main] Error is:java.lang.NullPointerException
+2018-07-09 13:04:30,064 INFO c.s.t.a.s.LoginService [main] Error is:java.lang.NullPointerException
+2018-07-09 13:04:30,064 INFO c.s.t.a.s.LoginService [main] Error is:java.lang.NullPointerException
+2018-07-09 13:05:01,106 INFO c.s.t.a.s.LoginService [main] Error is:java.lang.NullPointerException
+2018-07-09 13:05:01,677 INFO R.class [main] Error in Registration: java.lang.NullPointerException
+2018-07-09 13:05:01,784 INFO R.class [main] Error in Registration: org.hibernate.exception.ConstraintViolationException: could not insert: [com.stpl.trainee.assignment9.bean.StudentRegistration]
+2018-07-09 13:05:01,869 INFO R.class [main] Error in Registration: java.lang.NullPointerException
+2018-07-09 13:05:01,870 INFO R.class [main] Error in Registration: java.lang.NullPointerException
+2018-07-09 13:05:01,951 INFO c.s.t.a.s.LoginService [main] Error is:java.lang.NullPointerException
+2018-07-09 13:05:01,952 INFO c.s.t.a.s.LoginService [main] Error is:java.lang.NullPointerException
+2018-07-09 13:05:01,952 INFO c.s.t.a.s.LoginService [main] Error is:java.lang.NullPointerException
+2018-07-09 13:11:11,535 INFO c.s.t.a.s.LoginService [main] Error is:java.lang.NullPointerException
+2018-07-09 13:11:12,006 INFO R.class [main] Error in Registration: java.lang.NullPointerException
+2018-07-09 13:11:12,068 INFO R.class [main] Error in Registration: org.hibernate.exception.ConstraintViolationException: could not insert: [com.stpl.trainee.assignment9.bean.StudentRegistration]
+2018-07-09 13:11:12,183 INFO R.class [main] Error in Registration: java.lang.NullPointerException
+2018-07-09 13:11:12,184 INFO R.class [main] Error in Registration: java.lang.NullPointerException
+2018-07-09 13:11:12,334 INFO c.s.t.a.s.LoginService [main] Error is:java.lang.NullPointerException
+2018-07-09 13:11:12,335 INFO c.s.t.a.s.LoginService [main] Error is:java.lang.NullPointerException
+2018-07-09 13:11:12,335 INFO c.s.t.a.s.LoginService [main] Error is:java.lang.NullPointerException
+2018-07-09 13:11:32,682 INFO c.s.t.a.s.LoginService [main] Error is:java.lang.NullPointerException
+2018-07-09 13:11:34,044 INFO R.class [main] Error in Registration: java.lang.NullPointerException
+2018-07-09 13:11:34,767 INFO R.class [main] Error in Registration: org.hibernate.exception.ConstraintViolationException: could not insert: [com.stpl.trainee.assignment9.bean.StudentRegistration]
+2018-07-09 13:11:34,947 INFO R.class [main] Error in Registration: java.lang.NullPointerException
+2018-07-09 13:11:34,947 INFO R.class [main] Error in Registration: java.lang.NullPointerException
+2018-07-09 13:11:35,228 INFO c.s.t.a.s.LoginService [main] Error is:java.lang.NullPointerException
+2018-07-09 13:11:35,228 INFO c.s.t.a.s.LoginService [main] Error is:java.lang.NullPointerException
+2018-07-09 13:11:35,229 INFO c.s.t.a.s.LoginService [main] Error is:java.lang.NullPointerException
+2018-07-10 11:15:49,068 INFO c.s.t.a.s.LoginService [main] Error is:java.lang.NullPointerException
+2018-07-10 11:15:49,489 INFO R.class [main] Error in Registration: java.lang.NullPointerException
+2018-07-10 11:15:49,550 INFO R.class [main] Error in Registration: org.hibernate.exception.ConstraintViolationException: could not insert: [com.stpl.trainee.assignment9.bean.StudentRegistration]
+2018-07-10 11:15:49,618 INFO R.class [main] Error in Registration: java.lang.NullPointerException
+2018-07-10 11:15:49,619 INFO R.class [main] Error in Registration: java.lang.NullPointerException
+2018-07-10 11:15:49,667 INFO c.s.t.a.s.LoginService [main] Error is:java.lang.NullPointerException
+2018-07-10 11:15:49,668 INFO c.s.t.a.s.LoginService [main] Error is:java.lang.NullPointerException
+2018-07-10 11:15:49,668 INFO c.s.t.a.s.LoginService [main] Error is:java.lang.NullPointerException
+2018-07-10 11:17:55,883 INFO c.s.t.a.s.LoginService [main] Error is:java.lang.NullPointerException
+2018-07-10 11:17:56,351 INFO R.class [main] Error in Registration: java.lang.NullPointerException
+2018-07-10 11:17:56,412 INFO R.class [main] Error in Registration: org.hibernate.exception.ConstraintViolationException: could not insert: [com.stpl.trainee.assignment9.bean.StudentRegistration]
+2018-07-10 11:17:56,496 INFO R.class [main] Error in Registration: java.lang.NullPointerException
+2018-07-10 11:17:56,497 INFO R.class [main] Error in Registration: java.lang.NullPointerException
+2018-07-10 11:17:56,568 INFO c.s.t.a.s.LoginService [main] Error is:java.lang.NullPointerException
+2018-07-10 11:17:56,569 INFO c.s.t.a.s.LoginService [main] Error is:java.lang.NullPointerException
+2018-07-10 11:17:56,569 INFO c.s.t.a.s.LoginService [main] Error is:java.lang.NullPointerException
+2018-07-10 13:31:54,600 INFO c.s.t.a.s.LoginService [main] Error is:java.lang.NullPointerException
+2018-07-10 13:31:55,158 INFO R.class [main] Error in Registration: java.lang.NullPointerException
+2018-07-10 13:31:55,249 INFO R.class [main] Error in Registration: org.hibernate.exception.ConstraintViolationException: could not insert: [com.stpl.trainee.assignment9.bean.StudentRegistration]
+2018-07-10 13:31:55,346 INFO R.class [main] Error in Registration: java.lang.NullPointerException
+2018-07-10 13:31:55,347 INFO R.class [main] Error in Registration: java.lang.NullPointerException
+2018-07-10 13:31:55,423 INFO c.s.t.a.s.LoginService [main] Error is:java.lang.NullPointerException
+2018-07-10 13:31:55,423 INFO c.s.t.a.s.LoginService [main] Error is:java.lang.NullPointerException
+2018-07-10 13:31:55,423 INFO c.s.t.a.s.LoginService [main] Error is:java.lang.NullPointerException
+2018-07-10 17:17:42,727 INFO c.s.t.a.s.LoginService [main] Error is:java.lang.NullPointerException
+2018-07-10 17:17:43,228 INFO R.class [main] Error in Registration: java.lang.NullPointerException
+2018-07-10 17:17:43,288 INFO R.class [main] Error in Registration: org.hibernate.exception.ConstraintViolationException: could not insert: [com.stpl.trainee.assignment9.bean.StudentRegistration]
+2018-07-10 17:17:43,363 INFO R.class [main] Error in Registration: java.lang.NullPointerException
+2018-07-10 17:17:43,363 INFO R.class [main] Error in Registration: java.lang.NullPointerException
+2018-07-10 17:17:43,455 INFO c.s.t.a.s.LoginService [main] Error is:java.lang.NullPointerException
+2018-07-10 17:17:43,455 INFO c.s.t.a.s.LoginService [main] Error is:java.lang.NullPointerException
+2018-07-10 17:17:43,455 INFO c.s.t.a.s.LoginService [main] Error is:java.lang.NullPointerException

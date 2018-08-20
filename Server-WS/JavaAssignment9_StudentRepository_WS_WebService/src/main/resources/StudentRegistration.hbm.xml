@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+"http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd">
+<!-- Generated Jul 5, 2018 12:07:57 PM by Hibernate Tools 3.6.0.Final -->
+<hibernate-mapping>
+    <class name="com.stpl.trainee.assignment9.bean.StudentRegistration" table="STUDENT_REGISTRATION" schema="dbo" catalog="BPIGTN_AGN_APP_DEV">
+        <id name="username" type="string">
+            <column name="USERNAME" length="50" />
+            <generator class="assigned" />
+        </id>
+        <property name="fullname" type="string">
+            <column name="FULLNAME" length="50" />
+        </property>
+        <property name="pasword" type="string">
+            <column name="PASWORD" length="50" />
+        </property>
+        <property name="address" type="string">
+            <column name="ADDRESS" length="500" />
+        </property>
+        <property name="dob" type="string">
+            <column name="DOB" length="20" />
+        </property>
+        <property name="gender" type="string">
+            <column name="GENDER" length="10" />
+        </property>
+        <property name="email" type="string">
+            <column name="EMAIL" length="50" />
+        </property>
+        <property name="contact" type="string">
+            <column name="CONTACT" length="20" />
+        </property>
+    </class>
+</hibernate-mapping>

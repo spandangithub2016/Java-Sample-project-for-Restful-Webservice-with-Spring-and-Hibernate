@@ -1,0 +1,54 @@
+<?xml version="1.0"?>
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+"http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd">
+<!-- Generated Feb 12, 2018 6:17:45 PM by Hibernate Tools 3.6.0.Final -->
+<hibernate-mapping>
+    <class name="com.stpl.trainee.bean.StudentRegister" table="Student_Register" schema="dbo" catalog="BPIGTN_TRAINEE">
+        <id name="username" type="string">
+            <column name="username" length="50" />
+            <generator class="native" />
+        </id>
+        <property name="fullname" type="string">
+            <column name="fullname" length="50" />
+        </property>
+        <property name="pasword" type="string">
+            <column name="pasword" length="30" />
+        </property>
+        <property name="address" type="string">
+            <column name="address" length="100" />
+        </property>
+        <property name="dob" type="date">
+            <column name="dob" length="10" />
+        </property>
+        <property name="gender" type="string">
+            <column name="gender" length="10" />
+        </property>
+        <property name="email" type="string">
+            <column name="email" length="30" />
+        </property>
+        <property name="contact" type="string">
+            <column name="contact" length="10" />
+        </property>
+        <property name="city" type="string">
+            <column name="city" length="50" />
+        </property>
+        <property name="state" type="string">
+            <column name="state" length="50" />
+        </property>
+        <property name="country" type="string">
+            <column name="country" length="50" />
+        </property>
+        <property name="coursename" type="string">
+            <column name="coursename" length="50" />
+        </property>
+        <property name="courseid" type="string">
+            <column name="courseid" length="50" />
+        </property>
+        <property name="fees" type="string">
+            <column name="fees" length="20" />
+        </property>
+        <property name="duration" type="string">
+            <column name="duration" length="20" />
+        </property>
+    </class>
+</hibernate-mapping>
